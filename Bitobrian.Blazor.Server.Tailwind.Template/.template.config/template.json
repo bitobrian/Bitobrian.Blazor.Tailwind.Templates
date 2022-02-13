@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Bitobrian",
+    "classifications": [ "Blazor", "Tailwind" ],
+    "name": "Blazor Server with Tailwind",
+    "identity": "Bitobrian.Blazor.Server.Tailwind",
+    "groupIdentity":"Bitobrian.Blazor.Tailwind.Templates",
+    "shortName": "bitoblzrs-tw",
+    "tags": {
+      "language": "C#",
+      "type":"project"
+    },
+    "sourceName": "BlazorServerTailwind",
+    "preferNameDirectory":true
+  }
